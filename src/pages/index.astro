@@ -18,7 +18,7 @@ const topperSider = await getCollection("topper");
 				<>
 					{topperSider.length === index + 1 && <VerticalBar />}
 					<LinkCard
-						href={`/topper/${side.slug}`}
+						href={`/eltons-europeiske-topper/topper/${side.slug}`}
 						tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
 						landEmoji={side.data.landEmoji}
 					/>

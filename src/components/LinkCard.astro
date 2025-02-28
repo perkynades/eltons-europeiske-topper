@@ -1,9 +1,10 @@
 ---
 import "./linkCard.css";
 
-const { href, tittel } = Astro.props;
+const { href, tittel, landEmoji } = Astro.props;
 ---
 
-<div class="link-card-container">
+<a href={href} class="link-card-container">
     <h2>{tittel}</h2>
-</div>
+    <p class="land-emoji-container">{landEmoji}</p>
+</a>

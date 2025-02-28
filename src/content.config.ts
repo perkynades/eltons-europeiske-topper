@@ -10,7 +10,8 @@ const topperCollection = defineCollection({
         høyestePunkt: z.string(),
         moh: z.number(),
         fom: z.string(),
-        tom: z.string()
+        tom: z.string(),
+        landEmoji: z.string()
     })
 })
 

@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import LinkCard from "../components/LinkCard.astro";
 import Layout from "../layouts/Layout.astro";
+import VerticalBar from "../components/VerticalBar.astro";
 
 const topperSider = await getCollection("topper");
 
@@ -11,12 +12,18 @@ const topperSider = await getCollection("topper");
 
 <Layout>
 	<h1>Eltons europeiske topper</h1>
-	{
-		topperSider.map((side) => (
-			<LinkCard
-				href={side.slug}
-				tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
-			/>
-		))
-	}
+	<div class="land-link-cards">
+		{
+			topperSider.reverse().map((side, index) => (
+				<>
+					{topperSider.length === index + 1 && <VerticalBar />}
+					<LinkCard
+						href={`/topper/${side.slug}`}
+						tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
+						landEmoji={side.data.landEmoji}
+					/>
+				</>
+			))
+		}
+	</div>
 </Layout>

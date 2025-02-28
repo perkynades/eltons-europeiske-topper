@@ -1,6 +1,22 @@
 .link-card-container {
-    border: 0.225rem solid #504B38;
-    background-color: #EBE5C2;
-    padding-inline: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    color: #000;
+    text-decoration: none;
+    border: 0.175rem solid black;
+    background-color: #fff;
+    padding-inline: 1.5rem;
     border-radius: 1.25rem;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.link-card-container:hover {
+    background-color: #e5e9f0;
+}
+
+.land-emoji-container {
+    margin: 0;
+    font-size: 3rem;
 }

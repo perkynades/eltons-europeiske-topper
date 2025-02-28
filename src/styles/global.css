@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'noto-sans';
+    src: url('../fonts/noto-sans-latin-500-normal.ttf')
+}
+
+html,
+body {
+    font-family: noto-sans, serif;
+    background-color: #fff;
+    padding: 0.35rem;
+}

@@ -6,6 +6,8 @@ import VerticalBar from "../components/VerticalBar.astro";
 
 const topperSider = await getCollection("topper");
 
+import "../styles/global.css";
+
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
@@ -14,7 +16,7 @@ const topperSider = await getCollection("topper");
 	<h1>Eltons europeiske topper</h1>
 	<div class="land-link-cards">
 		{
-			topperSider.reverse().map((side, index) => (
+			topperSider.map((side, index) => (
 				<>
 					{topperSider.length === index + 1 && <VerticalBar />}
 					<LinkCard

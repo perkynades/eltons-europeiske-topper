@@ -9,3 +9,14 @@ body {
     background-color: #fff;
     padding: 0.35rem;
 }
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+p {
+    max-width: 42.5rem;
+    font-size: 18px;
+}

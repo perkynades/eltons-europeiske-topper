@@ -10,3 +10,8 @@ landEmoji: '🇻🇦'
 ---
 
 # Vatican hill, Vatikanstaten, 75 moh
+Hei og velkommen til denne lille bloggen
+
+![Norwegian fly parkert på Oslo Gardemoen i vintervær](../../assets/52_vatikanstaten/fly/fly-oslo-roma.jpg)
+
+![Utsikt over Innsbruck og Alpene fra flyet til Roma på en solværsdag](../../assets/52_vatikanstaten/fly/innsbruck-fra-lufta.jpg)

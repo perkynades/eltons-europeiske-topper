@@ -16,7 +16,7 @@ import "../styles/global.css";
 	<h1>Eltons europeiske topper</h1>
 	<div class="land-link-cards">
 		{
-			topperSider.map((side, index) => (
+			topperSider.reverse().map((side, index) => (
 				<>
 					{topperSider.length === index + 1 && <VerticalBar />}
 					<LinkCard

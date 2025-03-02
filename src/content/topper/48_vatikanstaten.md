@@ -70,4 +70,4 @@ Og med det er det på tide å vende hjemover mot Oslo. På grunn av noe som hete
 
 ![Norwegian fly i tåken på Stockholm lufthavn](../../assets/48_vatikanstaten/fly/på-bakken-i-stockholm.jpg)
 
-Vi sees på neste topp, [Chemin des Révoires i Monaco!](./47_monaco)
+Vi sees på neste topp, [Chemin des Révoires i Monaco!](/topper/47_monaco)

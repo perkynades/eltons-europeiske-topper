@@ -46,3 +46,28 @@ Etter ca. en halvtimes trasking og ikke den retteste veien mot toppen, så når 
 
 ![Toppen av Vatikanstaten, Vatican hill, med utsikt over Basilica di San Pietro](../../assets/48_vatikanstaten/vatikanstaten/utsikten-fra-vatican-hill.jpg)
 
+Etter de store høydedragene så gikk ferden videre nedover gjennom mer av Vatican gardens og inn i Vatican museums.
+
+![Grønn skråning i Vatican gardens](../../assets/48_vatikanstaten/vatikanstaten/skråning-i-vatican-gardens.jpg)
+
+![Italiensk hage i Vatican gardens](../../assets/48_vatikanstaten/vatikanstaten/italian-garden.jpg)
+
+![Skillpadder som strekekr seg etter som](../../assets/48_vatikanstaten/vatikanstaten/skillpadder.jpg)
+
+Og når man først er i Roma så er det muligens litt andre ting som kan være interresant å se på.
+
+![Aperol Spritz i solskinn](../../assets/48_vatikanstaten/roma/aperol-spritz.jpg)
+
+![Colloseum om natten](../../assets/48_vatikanstaten/roma/coloseo.jpg)
+
+![Castel Sant'Angelo om natten](../../assets/48_vatikanstaten/roma/castel-sant-angelo.jpg)
+
+![Gamle ruiner i nærheten av Colloseum](../../assets/48_vatikanstaten/roma/ruiner.jpg)
+
+![Elven tiber som renner ved siden av et gammelt bygg](../../assets/48_vatikanstaten/roma/elven-tiber.jpg)
+
+Og med det er det på tide å vende hjemover mot Oslo. På grunn av noe som heter "Vinterferie" så er prisene direkte hjem skyhøye og jeg må belage meg på et stopp i Stockholm. Glemte å ta bilde av flyet på bakken i Roma, bare forestill deg at været er mer likt Middelhavet enn Skandinavia.
+
+![Norwegian fly i tåken på Stockholm lufthavn](../../assets/48_vatikanstaten/fly/på-bakken-i-stockholm.jpg)
+
+Vi sees på neste topp, [Chemin des Révoires i Monaco!](../topper/47_monaco)

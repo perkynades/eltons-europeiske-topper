@@ -10,6 +10,9 @@ landEmoji: '🇻🇦'
 ---
 
 # Vatican hill, Vatikanstaten, 75 moh
+
+_Gjennomført fra 21.02.2025 til 23.02.2025_
+
 Hei og velkommen til denne lille reisedagboken hvor jeg har som mål å besøke [alle land i Europa sin høyste topp](https://en.wikipedia.org/wiki/List_of_highest_points_of_European_countries). For morrohetens skyld så har jeg bestemt meg for å ta toppen fra lavest til høyest, som da betyr at den første toppen er i Vatikanstaten!
 
 Jeg har begrenset meg til at toppene må være innenfor den geografiske delen av Europa, ettersom at noen av landene sin høyeste topp er i Karibia eller Grønnland. Noen av landene er også utilgjengelige av diverse politiske grunner, av egen sikkerhet vil jeg vente med disse til det er trygt å reise dit. Jeg gjør nettopp dette fordi jeg synes det er gøy, ikke fordi jeg må.

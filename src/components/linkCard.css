@@ -1,8 +1,6 @@
 .link-card-container {
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 1rem;
+    flex-direction: column;
     color: #000;
     text-decoration: none;
     border: 0.175rem solid black;
@@ -19,4 +17,17 @@
 .land-emoji-container {
     margin: 0;
     font-size: 3rem;
+}
+
+.flex-row-center-gap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem
+}
+
+.detail {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    font-size: 16px;
 }

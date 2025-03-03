@@ -3,15 +3,16 @@
     flex-direction: column;
     color: #000;
     text-decoration: none;
-    border: 0.175rem solid black;
+    border: 0.2rem solid black;
     background-color: #fff;
     padding-inline: 1.5rem;
     border-radius: 1.25rem;
-    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
 }
 
 .link-card-container:hover {
-    background-color: #e5e9f0;
+    color: #eceff4;
+    background-color: #bf616a;
 }
 
 .land-emoji-container {

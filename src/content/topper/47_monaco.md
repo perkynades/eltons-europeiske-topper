@@ -9,5 +9,4 @@ tom: '09.03.2025'
 landEmoji: '🇲🇨'
 ---
 
-# Monaco
-Neste tur er dit...
+# Chemin des Révoires, Monaco, 163 moh

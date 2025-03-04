@@ -16,20 +16,8 @@ img {
     display: block;
 }
 
-video {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-iframe {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
 p {
-    max-width: 42.5rem;
+    max-width: 50rem;
     font-size: 18px;
 }
 

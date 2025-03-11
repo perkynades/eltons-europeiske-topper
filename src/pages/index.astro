@@ -4,7 +4,9 @@ import LinkCard from "../components/LinkCard.astro";
 import Layout from "../layouts/Layout.astro";
 import VerticalBar from "../components/VerticalBar.astro";
 
-const topperSider = await getCollection("topper");
+const topper = await getCollection("topper");
+
+const topperSider = [...topper].sort((a, b) => a.data.rang - b.data.rang);
 
 import "../styles/global.css";
 
@@ -16,18 +18,20 @@ import "../styles/global.css";
 	<h1>Eltons europeiske topper</h1>
 	<div style={{ maxWidth: "50rem" }}>
 		{
-			topperSider.map((side, index) => (
-				<>
-					{topperSider.length === index + 1 && <VerticalBar />}
-					<LinkCard
-						href={`/topper/${side.slug}`}
-						tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
-						landEmoji={side.data.landEmoji}
-						fom={side.data.fom}
-						tom={side.data.tom}
-					/>
-				</>
-			))
+			topperSider.map((side, index) => {
+				return (
+					<>
+						{index !== 0 && <VerticalBar />}
+						<LinkCard
+							href={`/topper/${side.slug}`}
+							tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
+							landEmoji={side.data.landEmoji}
+							fom={side.data.fom}
+							tom={side.data.tom}
+						/>
+					</>
+				);
+			})
 		}
 	</div>
 </Layout>

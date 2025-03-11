@@ -9,5 +9,13 @@ const { href, tittel, landEmoji, fom, tom } = Astro.props;
         <h2>{tittel}</h2>
         <p class="land-emoji-container">{landEmoji}</p>
     </div>
-    <p class="detail">{fom} - {tom}</p>
+    {
+        fom === tom ? (
+            <p class="detail">{fom}</p>
+        ) : (
+            <p class="detail">
+                {fom} - {tom}
+            </p>
+        )
+    }
 </a>

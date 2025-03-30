@@ -8,7 +8,8 @@
 }
 
 .text {
-    writing-mode: sideways-lr;
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
     word-break: keep-all;
     padding-inline: 1rem;
 }

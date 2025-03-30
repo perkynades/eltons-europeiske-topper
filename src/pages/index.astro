@@ -3,10 +3,20 @@ import { getCollection } from "astro:content";
 import LinkCard from "../components/LinkCard.astro";
 import Layout from "../layouts/Layout.astro";
 import VerticalBar from "../components/VerticalBar.astro";
-
+import StatusBar from "../components/StatusBar.astro";
 const topper = await getCollection("topper");
 
-const topperSider = [...topper].sort((a, b) => a.data.rang - b.data.rang);
+const topperSortertPaaRang = [...topper].sort(
+	(a, b) => a.data.rang - b.data.rang,
+);
+
+const ikkeGjennomfoerteTopper = [...topperSortertPaaRang].filter(
+	(topp) => topp.data.status === "IKKE_GJENNOMFØRT",
+);
+
+const gjennomfoerteTopper = [...topperSortertPaaRang].filter(
+	(topp) => topp.data.status === "GJENNOMFØRT",
+);
 
 import "../styles/global.css";
 
@@ -16,22 +26,53 @@ import "../styles/global.css";
 
 <Layout>
 	<h1>Eltons europeiske topper</h1>
-	<div style={{ maxWidth: "50rem" }}>
-		{
-			topperSider.map((side, index) => {
-				return (
-					<>
-						{index !== 0 && <VerticalBar />}
-						<LinkCard
-							href={`/topper/${side.slug}`}
-							tittel={`${side.data.rang}. ${side.data.høyestePunkt}, ${side.data.land}, ${side.data.moh} moh`}
-							landEmoji={side.data.landEmoji}
-							fom={side.data.fom}
-							tom={side.data.tom}
-						/>
-					</>
-				);
-			})
-		}
+	<div
+		style={{
+			display: "flex",
+			flexDirection: "column",
+			gap: "2rem",
+		}}
+	>
+		<div style={{ display: "flex", flexDirection: "row" }}>
+			<StatusBar label="Bestilt" />
+			<div>
+				{
+					ikkeGjennomfoerteTopper.map((topp, index) => (
+						<>
+							{index !== 0 && <VerticalBar />}
+							<LinkCard
+								href={`/topper/${topp.slug}`}
+								tittel={`${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`}
+								landEmoji={topp.data.landEmoji}
+								fom={topp.data.fom}
+								tom={topp.data.tom}
+							/>
+						</>
+					))
+				}
+			</div>
+		</div>
+
+		<div style={{ display: "flex", flexDirection: "row" }}>
+			<StatusBar label="Gjennomført" />
+			<div>
+				{
+					gjennomfoerteTopper.map((topp, index) => {
+						return (
+							<>
+								{index !== 0 && <VerticalBar />}
+								<LinkCard
+									href={`/topper/${topp.slug}`}
+									tittel={`${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`}
+									landEmoji={topp.data.landEmoji}
+									fom={topp.data.fom}
+									tom={topp.data.tom}
+								/>
+							</>
+						);
+					})
+				}
+			</div>
+		</div>
 	</div>
 </Layout>

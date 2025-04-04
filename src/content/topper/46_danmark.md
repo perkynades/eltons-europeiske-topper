@@ -2,11 +2,11 @@
 status: IKKE_GJENNOMFØRT
 rang: 46
 land: Danmark
-høyestePunkt: Møllerhøj
+høyestePunkt: Møllehøj
 moh: 171
 fom: '06.04.2025'
 tom: '06.04.2025'
 landEmoji: '🇩🇰'
 ---
 
-# Møllerhøj, Danmark, 171 moh
+# Møllehøj, Danmark, 171 moh

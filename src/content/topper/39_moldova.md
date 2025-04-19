@@ -4,8 +4,8 @@ rang: 39
 land: Moldova
 høyestePunkt: Bălănești Hill
 moh: 430
-fom: ''
-tom: ''
+fom: '18.06.2025'
+tom: '22.06.2025'
 landEmoji: '🇲🇩'
 ---
 

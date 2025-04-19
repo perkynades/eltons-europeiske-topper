@@ -11,4 +11,4 @@ landEmoji: '🇧🇾'
 
 # Dzyarzhynskaya Hara, Belarus, 345 moh
 
-Siden Belarus og deres diktator Alexander Lukashenko er drypt involvert i Ukraina krigen som Russlands aliert er det per nå ikke mulig å reise til Belarus.
+Siden Belarus og deres diktator Alexander Lukashenko er drypt involvert i Ukraina krigen som en av Russlands allierte er det per nå ikke mulig å reise til Belarus.

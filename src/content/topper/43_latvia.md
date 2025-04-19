@@ -1,5 +1,5 @@
 ---
-status: IKKE_GJENNOMFØRT
+status: BESTILT
 rang: 43
 land: Latvia
 høyestePunkt: Gaiziņkalns

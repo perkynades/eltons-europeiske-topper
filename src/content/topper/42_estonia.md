@@ -1,5 +1,5 @@
 ---
-status: IKKE_GJENNOMFØRT
+status: BESTILT
 rang: 42
 land: Estonia
 høyestePunkt: Suur Munamägi

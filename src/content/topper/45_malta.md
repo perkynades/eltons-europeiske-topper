@@ -1,5 +1,5 @@
 ---
-status: IKKE_GJENNOMFØRT
+status: BESTILT
 rang: 45
 land: Malta
 høyestePunkt: Ta' Dmejrek

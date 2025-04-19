@@ -1,5 +1,5 @@
 ---
-status: IKKE_GJENNOMFØRT
+status: BESTILT
 rang: 41
 land: Nederland
 høyestePunkt: Vaalserberg

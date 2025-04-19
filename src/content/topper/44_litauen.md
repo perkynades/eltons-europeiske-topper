@@ -1,5 +1,5 @@
 ---
-status: IKKE_GJENNOMFØRT
+status: BESTILT
 rang: 44
 land: Litauen
 høyestePunkt: Aukštojas Hill

@@ -1,21 +1,44 @@
 ---
 import "./linkCard.css";
 
-const { href, tittel, landEmoji, fom, tom } = Astro.props;
+const { href, tittel, landEmoji, fom, tom, status } = Astro.props;
 ---
 
-<a href={href} class="link-card-container">
-    <div class="flex-row-center-gap">
-        <h2>{tittel}</h2>
-        <p class="land-emoji-container">{landEmoji}</p>
-    </div>
+<div class="wrapper">
+    <a href={href} class="link-card-container">
+        <div class="flex-row-center-gap">
+            <h2>{tittel}</h2>
+            <p class="land-emoji-container">{landEmoji}</p>
+        </div>
+        {
+            fom === tom ? (
+                <p class="detail">{fom}</p>
+            ) : (
+                <p class="detail">
+                    {fom} - {tom}
+                </p>
+            )
+        }
+    </a>
     {
-        fom === tom ? (
-            <p class="detail">{fom}</p>
-        ) : (
-            <p class="detail">
-                {fom} - {tom}
-            </p>
+        status === "GJENNOMFØRT" && (
+            <div class="status-emoji-container green">
+                <p>✅</p>
+            </div>
         )
     }
-</a>
+    {
+        status === "BESTILT" && (
+            <div class="status-emoji-container yellow">
+                <p>💰</p>
+            </div>
+        )
+    }
+    {
+        status === "UTILGJENGELIG" && (
+            <div class="status-emoji-container red">
+                <p>‼️</p>
+            </div>
+        )
+    }
+</div>

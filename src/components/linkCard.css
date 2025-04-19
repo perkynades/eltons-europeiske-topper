@@ -1,18 +1,24 @@
+.wrapper {
+    display: flex;
+    width: fit-content;
+    border: 0.2rem solid black;
+    background-color: #fff;
+    border-radius: 1.25rem;
+    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
+}
+
 .link-card-container {
     display: flex;
     flex-direction: column;
     color: #000;
     text-decoration: none;
-    border: 0.2rem solid black;
-    background-color: #fff;
     padding-inline: 1.5rem;
-    border-radius: 1.25rem;
-    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
 }
 
 .link-card-container:hover {
     color: #eceff4;
     background-color: #bf616a;
+    border-radius: 1rem 0 0 1rem;
 }
 
 .land-emoji-container {
@@ -31,4 +37,31 @@
     margin: 0;
     margin-bottom: 0.5rem;
     font-size: 16px;
+}
+
+.status-emoji-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    border-left: 0.2rem solid black;
+    border-radius: 0 1rem 1rem 0;
+
+    p {
+        margin: 0;
+        margin-inline: 1.5rem;
+        font-size: 2.5rem;
+    }
+}
+
+.green {
+    background-color: #a3be8c;
+}
+
+.yellow {
+    background-color: #ebcb8b;
+}
+
+.red {
+    background-color: #bf616a;
 }

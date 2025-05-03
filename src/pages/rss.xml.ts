@@ -10,7 +10,7 @@ export const GET = async (context) => {
         description: 'Eltons reise til alle land i Europa sine høyeste topper',
         site: context.site,
         trailingSlash: false,
-        items: topper.map((topp) => ({
+        items: topper.filter(topp => topp.data.status === "GJENNOMFØRT").map((topp) => ({
             title: `${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`,
             link: `/topper/${topp.slug}`
         }))

@@ -9,4 +9,4 @@ tom: '26.05.2025'
 landEmoji: '🇱🇹'
 ---
 
-# Aukštojas Hill, Litauen, 294 moh
+# Aukštojas, Litauen, 294 moh

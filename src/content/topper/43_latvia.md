@@ -13,13 +13,13 @@ landEmoji: '🇱🇻'
 
 _Gjennomført fra 23.05.2025 til 26.05.2025_
 
-<!-- Dette er andre episode i en tre episoders serie der jeg tar alle av baltikum sine topper i samme tur. Dette fordi baltikum sine land (Litauen, Latvia og Estland) ligger i perfekt rekkefølge for å ta i en smekk!
+Dette er andre episode i en tre episoders serie der jeg tar alle av baltikum sine topper i samme tur. Dette fordi baltikum sine land (Litauen, Latvia og Estland) ligger i perfekt rekkefølge for å ta i en smekk!
 
 Resten av episodene kan du finne her:
 - [Episode en: Aukštojas, Litauen, 294 moh](/topper/44_latvia)
 - [Episode tre: Suur Munamägi, Estonia, 318 moh](/topper/42_estland)
 
---- -->
+---
 
 Sveiki!
 

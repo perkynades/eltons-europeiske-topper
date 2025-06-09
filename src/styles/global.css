@@ -16,6 +16,12 @@ img {
     display: block;
 }
 
+video {
+    width: 80%;
+    height: auto;
+    display: block;
+}
+
 p {
     max-width: 50rem;
     font-size: 18px;

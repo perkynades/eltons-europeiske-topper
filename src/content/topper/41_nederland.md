@@ -10,3 +10,7 @@ landEmoji: '🇳🇱'
 ---
 
 # Vaalserberg, Nederland, 322 moh
+
+<video controls>
+  <source src="/src/assets/41_nederland/køln/teknobåt.MP4" type="video/mp4">
+</video>

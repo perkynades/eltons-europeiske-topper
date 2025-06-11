@@ -12,7 +12,8 @@ export const GET = async (context) => {
         trailingSlash: false,
         items: topper.filter(topp => topp.data.status === "GJENNOMFØRT").map((topp) => ({
             title: `${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`,
-            link: `/topper/${topp.slug}`
+            link: `/topper/${topp.slug}`,
+            content: `${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh ${topp.data.landEmoji}`
         }))
     })
 } 

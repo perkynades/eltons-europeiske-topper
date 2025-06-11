@@ -17,9 +17,10 @@ img {
 }
 
 video {
-    width: 80%;
+    width: 100%;
     height: auto;
-    display: block;
+    max-width: 50rem;
+    padding-right: 0.85rem;
 }
 
 p {

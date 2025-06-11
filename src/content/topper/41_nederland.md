@@ -14,3 +14,7 @@ landEmoji: '🇳🇱'
 <video controls>
   <source src="/41_nederland/teknobåt.MP4" type="video/mp4">
 </video>
+
+<video controls>
+  <source src="/41_nederland/demonstrasjon.mp4" type="video/mp4">
+</video>

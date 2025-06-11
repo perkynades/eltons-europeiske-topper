@@ -72,7 +72,7 @@ Og vipps så er vi på Malta sin høyeste topp!
 
 ![](../../assets/45_malta/toppen/utsikt_4.jpg)
 
-Heldigvis ligger Ta' Dmerjek ligger kun et steinkast unna de spektakulære klippene på sørlige Malta, dermed er det ikke langt til utrolig kul natur. Det er slike "gjemte perler" som gjør at synes det er skikkelig kult å dra på disse turene.
+Heldigvis ligger Ta' Dmerjek kun et steinkast unna de spektakulære klippene på sørlige Malta, dermed er det ikke langt til utrolig kul natur. Det er slike "gjemte perler" som gjør at synes det er skikkelig kult å dra på disse turene.
 
 ![](../../assets/45_malta/klipper/klipper_høyre_1.jpg)
 

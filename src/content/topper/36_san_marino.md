@@ -9,4 +9,4 @@ tom: '17.08.2025'
 landEmoji: '🇸🇲'
 ---
 
-# Monte Titano, Monte Titano, 749 moh
+# Monte Titano, San Marino, 749 moh

@@ -11,6 +11,8 @@ landEmoji: '🇧🇪'
 
 # Signal de Botrange, Belgia, 694 moh
 
+_Gjennomført fra 20.07.2025 til 25.07.2025_
+
 Dette er andre av to episoder hvor jeg besøker Luxembourg og Beliga sine høyeste topper i samme tur. Dette fordi toppene ligger ganske nærme hverandre ved grensa mellom Luxembourg og Belgia.
 
 [Her finner du episode en: Kneiff, Luxembourg, 560 moh](/topper/38_luxembourg)

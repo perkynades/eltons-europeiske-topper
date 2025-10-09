@@ -4,8 +4,8 @@ rang: 33
 land: Finland
 høyestePunkt: Halti
 moh: 1324
-fom: '10.10.2025'
-tom: '12.10.2025'
+fom: '13.03.2026'
+tom: '15.03.2026'
 landEmoji: '🇫🇮'
 ---
 

@@ -49,8 +49,6 @@ For å komme seg til Signal til Botrange må man først ta tog til Eupen, øst f
 
 ![](../../assets/37_belgia/liege_til_eupen/på_vei.jpeg)
 
-![](../../assets/37_belgia/liege_til_eupen/på_vei.jpeg)
-
 I Eupen har jeg litt tid på å utforske Eupen's delikatesser... før det så går med lokalbuss opp til Signal de Botrange.
 
 Sjåføren av lokalbussen var en av de mest service instillte bussjåførene jeg har møtt noensinne. Så dum som jeg er så hadde jeg ikke tatt ut cash for bussturen og dermed kunne ikke betale, derfor går jeg bare på bussen og håper på at alt går bra. Bussfjøren tar så ruta si før han stopper hele bussen uten for ett kontantuttak hvor han holder igjen bussen til jeg får løpt og tatt ut penger for bussturen. En ekte legende Belga.

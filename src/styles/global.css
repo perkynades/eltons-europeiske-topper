@@ -1,13 +1,9 @@
-@font-face {
-    font-family: 'noto-sans';
-    src: url('../fonts/noto-sans-latin-500-normal.ttf')
-}
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap');
 
-html,
 body {
-    font-family: noto-sans, serif;
-    background-color: #eceff4;
-    padding: 0.35rem;
+    font-family: "Schibsted Grotesk", serif;
+    background-color: #ebe3da;
+    padding: 0.15rem;
 }
 
 img {
@@ -24,7 +20,7 @@ video {
 }
 
 p {
-    max-width: 50rem;
+    max-width: 60rem;
     font-size: 18px;
 }
 

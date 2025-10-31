@@ -41,13 +41,13 @@ a {
     margin-bottom: 2rem;
 
     img {
-        width: 30%;
+        width: 400px;
         height: auto;
         display: block;
     }
 
     img:nth-child(3n) {
-        margin-left: -3rem;
+        margin-left: -4.20rem;
     }
 }
 

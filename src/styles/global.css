@@ -23,7 +23,7 @@ video {
 }
 
 p {
-    max-width: 60rem;
+    max-width: 55rem;
     font-size: 18px;
 }
 
@@ -51,7 +51,7 @@ a {
     }
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 1250px) {
     .header {
         border-bottom: solid;
 

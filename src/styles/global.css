@@ -36,28 +36,42 @@ a {
     border-bottom: solid;
     flex-direction: row;
     gap: 2rem;
+    padding-bottom: -0.6rem;
     margin-top: 1rem;
     margin-bottom: 2rem;
+
     text-wrap: nowrap;
 
-    .gjentakenede-fjell {
-        width: 100%;
+    .fjellkjede {
+        display: flex;
+        overflow: hidden;
 
-        background-image: url("fjellkjede.png");
-        background-size: 28.5rem;
-        background-repeat: repeat-x;
+        img {
+            width: 400px;
+            height: auto;
+            display: block;
+        }
 
+        img:not(:first-child) {
+            margin-left: -2rem;
+        }
 
     }
+
 }
 
 @media (max-width: 850px) {
     .header {
         border-bottom: solid;
+
         text-wrap: wrap;
 
-        .gjentakenede-fjell {
-            width: 0;
+        .fjellkjede {
+            img {
+                display: none
+            }
+
         }
+
     }
 }

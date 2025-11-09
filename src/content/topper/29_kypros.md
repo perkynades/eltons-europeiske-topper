@@ -9,4 +9,4 @@ tom: '20.05.2026'
 landEmoji: '🇨🇾'
 ---
 
-# Dinara, Kroatia, 1603 moh
+# Dinara, Kroatia, 1952 moh

@@ -1,6 +1,6 @@
 ---
 status: GJENNOMFØRT
-rang: 34
+rang: 33
 land: Irland
 høyestePunkt: Carrauntoohil
 moh: 1039

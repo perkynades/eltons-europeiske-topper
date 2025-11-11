@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 30
+rang: 29
 land: Kroatia
 høyestePunkt: Dinara
 moh: 1831

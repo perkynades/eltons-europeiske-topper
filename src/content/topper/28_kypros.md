@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 29
+rang: 28
 land: Kypros
 høyestePunkt: Mount Olympus
 moh: 1952

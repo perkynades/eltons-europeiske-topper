@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 33
+rang: 32
 land: Finland
 høyestePunkt: Halti
 moh: 1324

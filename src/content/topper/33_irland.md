@@ -203,7 +203,7 @@ Jeg har en siste natt i Dublin får jeg reiser hjem igjen i Norge.
 
 ![](../../assets/34_irland/dublin/IMG_2409.jpg)
 
-[Feicfidh mé sibh san Fhionlainn!](/topper/33_finland)
+[Feicfidh mé sibh san Fhionlainn!](/topper/32_finland)
 
 ![](../../assets/34_irland/dublin/IMG_2410.jpg)
 

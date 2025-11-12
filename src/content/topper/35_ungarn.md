@@ -171,7 +171,7 @@ Med en ny topp under beltet feirer jeg med en ny Ungarsk rett, nemlig Langos. Et
 
 Men med det nyter jeg siste rest av Budapest før det er på tide å reise hjem igjen til Norge.
 
-[Találkozunk Írországban!](/topper/34_irland)
+[Viszontlátásra Törökországban!](/topper/34_tyrkia)
 
 ![](../../assets/35_ungarn/budapest/IMG_2147.jpg)
 

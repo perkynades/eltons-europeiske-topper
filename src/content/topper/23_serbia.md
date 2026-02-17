@@ -6,7 +6,7 @@ høyestePunkt: Midžor
 moh: 2169
 fom: '19.08.2026'
 tom: '26.08.2026'
-landEmoji: '🇮🇸'
+landEmoji: '🇷🇸'
 ---
 
 # Midžor, Serbia, 2169 moh

@@ -32,7 +32,23 @@ import "../styles/global.css";
 		{
 			topperSortertPaaRang.map((topp, index) => (
 				<>
-					{index !== 0 && <VerticalBar />}
+					{index > 0 &&
+					topp.data.fom !== "04.12.2025" &&
+					topperSortertPaaRang[index - 1].data.fom.split(".")[1] <
+						topp.data.fom.split(".")[1] ? (
+						<div class="års-skille">
+							<h2>
+								{
+									topperSortertPaaRang[
+										index - 1
+									].data.fom.split(".")[2]
+								}
+							</h2>
+							<div class="border" />
+						</div>
+					) : (
+						<>{index !== 0 && <VerticalBar />}</>
+					)}
 					<LinkCard
 						href={`/topper/${topp.slug}`}
 						tittel={`${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`}

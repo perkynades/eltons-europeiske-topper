@@ -64,6 +64,19 @@ a {
 
 }
 
+.års-skille {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+    padding-left: 1rem;
+
+    .border {
+        border-bottom: solid;
+        width: 100%;
+    }
+}
+
 @media (max-width: 480px) {
     .header {
         border-bottom: solid;

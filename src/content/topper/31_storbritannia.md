@@ -4,8 +4,8 @@ rang: 31
 land: Storbritannia
 høyestePunkt: Ben Nevis
 moh: 1345
-fom: '03.05.2026'
-tom: '10.05.2026'
+fom: '26.04.2026'
+tom: '30.04.2026'
 landEmoji: '🇬🇧'
 ---
 

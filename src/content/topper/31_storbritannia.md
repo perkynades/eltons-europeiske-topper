@@ -99,7 +99,7 @@ Endelig fremme i Fort William. I Fort William fyller jeg opp tanken før jeg rus
 
 ![](../../assets/31_storbritannia/fort_william_til_glen_nevis/IMG_3658.jpg)
 
-Mitt 5 stjeners hotell under oppholdet i Glen Nevis.
+Mitt 5 stjerners hotell under oppholdet i Glen Nevis.
 
 ![](../../assets/31_storbritannia/fort_william_til_glen_nevis/IMG_3659.jpg)
 

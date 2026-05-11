@@ -61,7 +61,7 @@ I et par sekunder føler jeg på fristelsen mot å bare ta gondolen til toppen, 
 
 ![](../../assets/30_tsjekkia/til_toppen/IMG_3878.jpg)
 
-Etter litt klatring kommer jeg fram til noen fjellhytter for man kan kjøpe seg litt mat og drikke. Må si Tsjekkerne er ganske hardcore, her ver det rett på shots og sigg kl. 10 på morgenen før de skulle klatre videre mot toppen. Kanskje det er det som hjelper mot høydesyke.
+Etter litt klatring kommer jeg fram til noen fjellhytter for man kan kjøpe seg litt mat og drikke. Må si Tsjekkerne er ganske hardcore, her var det rett på shots og sigg kl. 10 på morgenen før de skulle klatre videre mot toppen. Kanskje det er det som hjelper mot høydesyke.
 
 ![](../../assets/30_tsjekkia/til_toppen/IMG_3882.jpg)
 
@@ -89,7 +89,7 @@ Og med det er Tsjekkias høyeste punkt Sněžka på 1603 meter over havet besteg
 
 ![](../../assets/30_tsjekkia/toppen/IMG_3901.jpg)
 
-Som man ser er toppen bokstavelig talt på grensa til Polen.
+Som man ser er toppen bokstavelig talt på grensen til Polen.
 
 ![](../../assets/30_tsjekkia/toppen/IMG_3903.jpg)
 

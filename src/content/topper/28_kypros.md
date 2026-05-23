@@ -9,4 +9,4 @@ tom: '19.05.2026'
 landEmoji: '🇨🇾'
 ---
 
-# Dinara, Kroatia, 1952 moh
+# Mount Olimbos, Kypros, 1952 moh

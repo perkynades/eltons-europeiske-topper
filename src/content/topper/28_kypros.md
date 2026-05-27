@@ -13,7 +13,7 @@ landEmoji: '🇨🇾'
 
 _Gjenomført fra 12.05.2025 til 19.05.2026_
 
-Dette er første episode i en to episoders serie der jeg tar både Kroatia og Kypros sine topper i samme tur. Dette fordi både Kroatia og Kypros ligger i samme luftlinje fra Norge og gjør det derfor lettere å ta begge to samtidig!
+Dette er andre episode i en to episoders serie der jeg tar både Kroatia og Kypros sine topper i samme tur. Dette fordi både Kroatia og Kypros ligger i samme luftlinje fra Norge og gjør det derfor lettere å ta begge to samtidig!
 
 Episode en finne du her: [Dinara, Kroatia, 1831 moh](/topper/29_kroatia)
 

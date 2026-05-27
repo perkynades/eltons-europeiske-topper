@@ -1,6 +1,6 @@
 ---
 status: GJENNOMFØRT
-rang: 30
+rang: 29
 land: Tsjekkia
 høyestePunkt: Sněžka
 moh: 1603
@@ -121,10 +121,10 @@ Polen i det fjerne!
 
 Glad jeg ikke valgte å bo her.
 
-![](../../assets/30_tsjekkia/ned_fra_toppen/IMG_3955.jpg)
+![](../../assets/29_tsjekkia/ned_fra_toppen/IMG_3955.jpg)
 
 Men med det er min tid i Tsjekkia allerede over, hvor neste dag brukes til å kjøre tilbake til flyplassen i Praha og fly hjem igjen til Norge.
 
-[Uvidíme se znovu v Chorvatsku!](/topper/29_kroatia)
+[Uvidíme se znovu v Chorvatsku!](/topper/28_kroatia)
 
 ![](../../assets/30_tsjekkia/pec_pod_til_oslo/IMG_3958.jpg)

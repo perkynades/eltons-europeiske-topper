@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 18
+rang: 17
 land: Romania
 høyestePunkt: Vârful Moldoveanu
 moh: 2544

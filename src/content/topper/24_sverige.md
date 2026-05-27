@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 25
+rang: 24
 land: Sverige
 høyestePunkt: Kebnekaise
 moh: 2097

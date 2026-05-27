@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 22
+rang: 21
 land: Bosnia og Herzegovina
 høyestePunkt: Maglić
 moh: 2386

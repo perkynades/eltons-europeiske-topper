@@ -1,6 +1,6 @@
 ---
 status: UTILGJENGELIG
-rang: 26
+rang: 25
 land: Ukraina
 høyestePunkt: Hoverla
 moh: 2061

@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 19
+rang: 18
 land: Montenegro
 høyestePunkt: Zla Kolata
 moh: 2534

@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 20
+rang: 19
 land: Polen
 høyestePunkt: Rysy
 moh: 2499

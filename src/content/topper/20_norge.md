@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 21
+rang: 20
 land: Norge
 høyestePunkt: Galdhøpiggen
 moh: 2469

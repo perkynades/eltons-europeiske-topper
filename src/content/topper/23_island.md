@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 24
+rang: 23
 land: Island
 høyestePunkt: Hvannadalshnúkur
 moh: 2110

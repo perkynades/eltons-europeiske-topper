@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 27
+rang: 26
 land: Portugal
 høyestePunkt: Serra de Estrela
 moh: 1993

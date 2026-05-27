@@ -1,6 +1,6 @@
 ---
 status: BESTILT
-rang: 23
+rang: 22
 land: Serbia
 høyestePunkt: Midžor
 moh: 2169

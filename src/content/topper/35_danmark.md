@@ -8,3 +8,5 @@ fom: '07.08.2026'
 tom: '10.08.2026'
 landEmoji: '🇩🇰'
 ---
+
+# Slættaratindur, Danmark, 880 moh

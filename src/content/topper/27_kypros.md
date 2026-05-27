@@ -155,7 +155,7 @@ Et av flyene til Middle East Airlines som har hovedbase i Beirut, Libanon. Flyen
 
 ![](../../assets/27_kypros/hjem_igjen/IMG_4265.jpg)
 
-[Ta léme stin Portogalía!](/topper/27_portugal)
+[Ta léme stin Portogalía!](/topper/26_portugal)
 
 ![](../../assets/27_kypros/hjem_igjen/IMG_4272.jpg)
 

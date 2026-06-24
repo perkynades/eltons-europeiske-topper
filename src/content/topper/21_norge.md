@@ -4,8 +4,8 @@ rang: 21
 land: Norge
 høyestePunkt: Galdhøpiggen
 moh: 2469
-fom: 'N/A'
-tom: 'N/A'
+fom: '28.08.2026'
+tom: '30.08.2026'
 landEmoji: '🇳🇴'
 ---
 

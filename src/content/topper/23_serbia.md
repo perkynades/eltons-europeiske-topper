@@ -37,7 +37,7 @@ Velkommen til Serbia og Beograd! Her har jeg en natt til å utforske byen før j
 
 ![](../../assets/23_serbia/beograd/IMG_5101.jpg)
 
-Serbia var kraftig involvert i krigen etter oppløsningen av Yugoslavia. Som minner etter krigen har man latt disse utbombede bygningen i sentrum så igjen.
+Serbia var kraftig involvert i krigen etter oppløsningen av Yugoslavia. Som minner etter krigen har man latt disse utbombede bygningen i sentrum stå igjen.
 
 ![](../../assets/23_serbia/beograd/IMG_5109.jpg)
 

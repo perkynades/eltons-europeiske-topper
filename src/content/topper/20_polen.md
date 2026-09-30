@@ -1,5 +1,5 @@
 ---
-status: BESTILT
+status: GJENNOMFØRT
 rang: 20
 land: Polen
 høyestePunkt: Rysy

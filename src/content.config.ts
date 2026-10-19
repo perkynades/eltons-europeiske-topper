@@ -1,6 +1,6 @@
 import { defineCollection, z } from "astro:content";
 
-const ToppStatus = ["GJENNOMFØRT", "UTILGJENGELIG", "BESTILT"] as const
+const ToppStatus = ["GJENNOMFØRT", "UTILGJENGELIG", "BESTILT", "PLANLAGT"] as const
 
 const topperCollection = defineCollection({
     schema: z.object({

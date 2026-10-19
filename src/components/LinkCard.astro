@@ -41,4 +41,11 @@ const { href, tittel, landEmoji, fom, tom, status } = Astro.props;
             </div>
         )
     }
+    {
+        status === "PLANLAGT" && (
+            <div class="status-emoji-container gray">
+                <p>⏳</p>
+            </div>
+        )
+    }
 </div>

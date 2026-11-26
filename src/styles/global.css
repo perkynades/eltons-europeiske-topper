@@ -13,9 +13,6 @@ img {
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 0.65rem;
-    border: 0.15rem solid black;
-    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
 }
 
 video {

@@ -1,51 +1,52 @@
 ---
 import "./linkCard.css";
+import { Image } from "astro:assets";
 
-const { href, tittel, landEmoji, fom, tom, status } = Astro.props;
+const { href, tittel, landEmoji, fom, tom, status, pathTilFlagg } = Astro.props;
 ---
 
 <div class="wrapper">
     <a href={href} class="link-card-container">
         <div class="flex-row-center-gap">
             <h2>{tittel}</h2>
-            <p class="land-emoji-container">{landEmoji}</p>
-        </div>
-        {
-            fom === tom ? (
-                <p class="detail">{fom}</p>
+            {pathTilFlagg ? (
+                <Image
+                    src={pathTilFlagg}
+                    alt={`Flagg for ${tittel}`}
+                    width="500"
+                    height="400"
+                    class="land-flagg-container"
+                />
             ) : (
-                <p class="detail">
-                    {fom} - {tom}
-                </p>
-            )
-        }
+                <p class="land-emoji-container">{landEmoji}</p>
+            )}
+        </div>
+        {fom === tom ? (
+            <p class="detail">{fom}</p>
+        ) : (
+            <p class="detail">
+                {fom} - {tom}
+            </p>
+        )}
     </a>
-    {
-        status === "GJENNOMFØRT" && (
-            <div class="status-emoji-container green">
-                <p>✅</p>
-            </div>
-        )
-    }
-    {
-        status === "BESTILT" && (
-            <div class="status-emoji-container yellow">
-                <p>💰</p>
-            </div>
-        )
-    }
-    {
-        status === "UTILGJENGELIG" && (
-            <div class="status-emoji-container red">
-                <p>‼️</p>
-            </div>
-        )
-    }
-    {
-        status === "PLANLAGT" && (
-            <div class="status-emoji-container gray">
-                <p>⏳</p>
-            </div>
-        )
-    }
+    {status === "GJENNOMFØRT" && (
+        <div class="status-emoji-container green">
+            <p>✅</p>
+        </div>
+    )}
+    {status === "BESTILT" && (
+        <div class="status-emoji-container yellow">
+            <p>💰</p>
+        </div>
+    )}
+    {status === "UTILGJENGELIG" && (
+        <div class="status-emoji-container red">
+            <p>❌</p>
+        </div>
+    )}
+    {status === "PLANLAGT" && (
+        <div class="status-emoji-container gray">
+            <p>⏳</p>
+        </div>
+    )}
 </div>

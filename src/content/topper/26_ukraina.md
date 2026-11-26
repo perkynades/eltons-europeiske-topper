@@ -4,8 +4,8 @@ rang: 26
 land: Ukraina
 høyestePunkt: Hoverla
 moh: 2061
-fom: ''
-tom: ''
+fom: 'En vakker dag i fremtiden'
+tom: 'En vakker dag i fremtiden'
 landEmoji: '🇺🇦'
 ---
 

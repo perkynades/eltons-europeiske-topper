@@ -26,33 +26,32 @@ import "../styles/global.css";
 			<Image src={fjell} alt="Fjellkjede" />
 		</div>
 	</div>
-	<div>
+	<div class="topper-lenker-container">
 		<!-- https://peakbook.org/index.php?module=index.lists.view&id=695&pbeID=10669 -->
 		<!-- TODO: Gjøre om slik at de blir formet i rekkefølgen som et fjell, i ren CSS -->
-		{
-			topperSortertPaaRang.map((topp, index) => (
-				<>
-					{index > 0 &&
-					topp.data.fom !== "04.12.2025" &&
-					topperSortertPaaRang[index - 1].data.fom.split(".")[1] <
-						topp.data.fom.split(".")[1] ? (
-						<div class="års-skille">
-							<h2>{topp.data.fom.split(".")[2]}</h2>
-							<div class="border" />
-						</div>
-					) : (
-						<>{index !== 0 && <VerticalBar />}</>
-					)}
-					<LinkCard
-						href={`/topper/${topp.slug}`}
-						tittel={`${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`}
-						landEmoji={topp.data.landEmoji}
-						fom={topp.data.fom}
-						tom={topp.data.tom}
-						status={topp.data.status}
-					/>
-				</>
-			))
-		}
+		{topperSortertPaaRang.map((topp, index) => (
+			<>
+				{index > 0 &&
+				topp.data.fom !== "04.12.2025" &&
+				topperSortertPaaRang[index - 1].data.fom.split(".")[1] <
+					topp.data.fom.split(".")[1] ? (
+					<div class="års-skille">
+						<h2>{topp.data.fom.split(".")[2]}</h2>
+						<div class="border" />
+					</div>
+				) : (
+					<>{index !== 0 && <VerticalBar />}</>
+				)}
+				<LinkCard
+					href={`/topper/${topp.slug}`}
+					tittel={`${topp.data.rang}. ${topp.data.høyestePunkt}, ${topp.data.land}, ${topp.data.moh} moh`}
+					landEmoji={topp.data.landEmoji}
+					fom={topp.data.fom}
+					tom={topp.data.tom}
+					status={topp.data.status}
+					pathTilFlagg={topp.data.pathTilFlagg}
+				/>
+			</>
+		))}
 	</div>
 </Layout>

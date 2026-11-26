@@ -64,6 +64,11 @@ a {
 
 }
 
+.topper-lenker-container {
+    max-width: 47rem;
+    width: 100%;
+}
+
 .års-skille {
     display: flex;
     flex-direction: row;

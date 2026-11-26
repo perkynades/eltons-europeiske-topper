@@ -4,8 +4,8 @@ rang: 41
 land: Belarus
 høyestePunkt: Dzyarzhynskaya Hara
 moh: 345
-fom: ''
-tom: ''
+fom: 'En vakker dag i fremtiden'
+tom: 'En vakker dag i fremtiden'
 landEmoji: '🇧🇾'
 ---
 

@@ -11,7 +11,8 @@ const topperCollection = defineCollection({
         moh: z.number(),
         fom: z.string(),
         tom: z.string(),
-        landEmoji: z.string()
+        landEmoji: z.string(),
+        pathTilFlagg: z.string().optional()
     })
 })
 

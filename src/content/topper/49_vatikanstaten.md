@@ -71,6 +71,6 @@ Og når man først er i Roma så er det muligens litt andre ting som kan være i
 
 Og med det er det på tide å vende hjemover mot Oslo. På grunn av noe som heter "Vinterferie" så er prisene direkte hjem skyhøye og jeg må belage meg på et stopp i Stockholm. Glemte å ta bilde av flyet på bakken i Roma, bare forestill deg at været er mer likt Middelhavet enn Skandinavia.
 
-![Norwegian fly i tåken på Stockholm lufthavn](../../assets/49_vatikanstaten/fly/på-bakken-i-stockholm.jpg)
-
 Vi sees på neste topp, [Chemin des Révoires i Monaco!](/topper/48_monaco)
+
+![Norwegian fly i tåken på Stockholm lufthavn](../../assets/49_vatikanstaten/fly/på-bakken-i-stockholm.jpg)
